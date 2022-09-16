@@ -9,29 +9,29 @@ This repo contains the Python code files for the plant identification project wh
 
 
 # Repository structure
-├── LICENSE
-├── README.md          <- The top-level README for developers using this project.
-├── data (Data is in external collaborative storage space)
-│   ├── external       <- Data from third party sources.
-│   ├── modeldata      <- 80% of the data selected to be used for model training, test, valiadation
-│   ├── QAdata         <- 20% of the data never seen by the model OR we can use alternate data scource
-│   ├── augmented      <- Augmented Data for model improvement 
-│   ├── litedata       <- Data for only 5% of the plant species 
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
-│
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks          <- Individual Jupyter notebook folders. (FEEL FREE TO ADD REPO WITH YOUR PREFERRED NAME) 
-│   ├── ben
-│   ├── for
-│   ├── stone
-│   ├── sv
-│   ├── yoda
-│   └── vib
-│
-└──  references         <- Data dictionaries, manuals, and all other explanatory materials. 
-    ├── data
-    ├── previouswork
-    └── methodologies
+├── LICENSE <br>
+├── README.md          <- The top-level README for developers using this project. <br>
+├── data (Data is in external collaborative storage space)<br>
+│   ├── external       <- Data from third party sources.<br>
+│   ├── modeldata      <- 80% of the data selected to be used for model training, test, valiadation <br>
+│   ├── QAdata         <- 20% of the data never seen by the model OR we can use alternate data scource <br>
+│   ├── augmented      <- Augmented Data for model improvement <br>
+│   ├── litedata       <- Data for only 5% of the plant species <br>
+│   ├── interim        <- Intermediate data that has been transformed. <br>
+│   ├── processed      <- The final, canonical data sets for modeling. <br>
+│   └── raw            <- The original, immutable data dump. <br>
+│<br>
+├── models             <- Trained and serialized models, model predictions, or model summaries<br>
+│<br>
+├── notebooks          <- Individual Jupyter notebook folders. (FEEL FREE TO ADD REPO WITH YOUR PREFERRED NAME) <br>
+│   ├── ben<br>
+│   ├── for<br>
+│   ├── stone<br>
+│   ├── sv<br>
+│   ├── yoda<br>
+│   └── vib<br>
+│<br>
+└──  references         <- Data dictionaries, manuals, and all other explanatory materials. <br>
+    ├── data <br>
+    ├── previouswork <br>
+    └── methodologies <br>
