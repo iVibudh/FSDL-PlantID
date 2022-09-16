@@ -1,3 +1,3 @@
-# Vibudh's notebooks
+# Notebooks
 
-work notebooks to be saved here
+Folder for each team member
